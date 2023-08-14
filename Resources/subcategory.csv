@@ -1,5 +1,6 @@
 subcategory_id,subcategory
 <<<<<<< HEAD
+<<<<<<< HEAD
 subcat1,photography books
 subcat2,nonfiction
 subcat3,shorts
@@ -50,3 +51,29 @@ subcat22,audio
 subcat23,wearables
 subcat24,documentary
 >>>>>>> 55d726b2acae46dd7981f2ad533d23d1085fdf9c
+=======
+subcat1,web
+subcat2,wearables
+subcat3,rock
+subcat4,television
+subcat5,mobile games
+subcat6,video games
+subcat7,metal
+subcat8,fiction
+subcat9,animation
+subcat10,drama
+subcat11,shorts
+subcat12,food trucks
+subcat13,indie rock
+subcat14,documentary
+subcat15,jazz
+subcat16,world music
+subcat17,science fiction
+subcat18,translations
+subcat19,electric music
+subcat20,radio & podcasts
+subcat21,nonfiction
+subcat22,photography books
+subcat23,plays
+subcat24,audio
+>>>>>>> 3c3fd04 (updating files)

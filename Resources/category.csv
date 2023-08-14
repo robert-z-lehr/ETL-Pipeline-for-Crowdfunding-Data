@@ -1,6 +1,7 @@
 category_id,category
 cat1,film & video
 <<<<<<< HEAD
+<<<<<<< HEAD
 cat2,journalism
 cat3,publishing
 cat4,technology
@@ -12,10 +13,18 @@ cat9,photography
 =======
 cat2,publishing
 cat3,technology
+=======
+cat2,technology
+cat3,photography
+>>>>>>> 3c3fd04 (updating files)
 cat4,journalism
-cat5,theater
-cat6,photography
+cat5,music
+cat6,publishing
 cat7,games
 cat8,food
+<<<<<<< HEAD
 cat9,music
 >>>>>>> 55d726b2acae46dd7981f2ad533d23d1085fdf9c
+=======
+cat9,theater
+>>>>>>> 3c3fd04 (updating files)
